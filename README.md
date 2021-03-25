@@ -8,10 +8,10 @@
 
 所以，接下来的时间，我会精选国外前端优质文章，搬运翻译共享，暂定每周一文。
 
-### :maple_leaf: 翻译来源
+### :maple_leaf: 文章来源
 
-* [css-weekly](https://css-weekly.com/archives/)
-* [javascript-weekly](https://javascriptweekly.com/issues/520)
+* [CSS Weekly](https://css-weekly.com/archives/)
+* [Javascript Weekly](https://javascriptweekly.com/issues/520)
 * [DEV Community](https://dev.to/aemiej/nginx-concepts-i-wish-i-knew-years-ago-23o0)
 * [Google Developers Web](https://developers.google.com/web/)
 * [Mobile Dev Weekly](https://mobiledevweekly.com/issues)
