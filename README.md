@@ -22,3 +22,4 @@
 * [我希望我早点认识Nginx](https://github.com/xszi/frontend-translation-forest/issues/1)【3.26】
 * [通过两个示例来解释递归和和调用堆栈](https://github.com/xszi/frontend-translation-forest/issues/2)【4.2】
 * [通过租用办公空间例子来解释Docker容器](https://github.com/xszi/frontend-translation-forest/issues/3)【4.10】
+* [关于Node.js的20个面试题](https://github.com/xszi/frontend-translation-forest/issues/4)【4.17】
