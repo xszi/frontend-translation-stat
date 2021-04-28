@@ -12,6 +12,7 @@
 
 * [CSS Weekly](https://css-weekly.com/archives/)
 * [Javascript Weekly](https://javascriptweekly.com/issues/520)
+* [Web.dev](https://web.dev/blog/)
 * [DEV Community](https://dev.to/aemiej/nginx-concepts-i-wish-i-knew-years-ago-23o0)
 * [Google Developers Web](https://developers.google.com/web/)
 * [Mobile Dev Weekly](https://mobiledevweekly.com/issues)
@@ -24,3 +25,4 @@
 * [通过租用办公空间例子来解释Docker容器](https://github.com/xszi/frontend-translation-forest/issues/3)【4.10】
 * [关于Node.js的20个面试题](https://github.com/xszi/frontend-translation-forest/issues/4)【4.17】
 * [将元素浮动到底角](https://github.com/xszi/frontend-translation-forest/issues/5)【4.24】
+* [可视化的JavaScript —— 事件循环](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
