@@ -25,4 +25,4 @@
 * [通过租用办公空间例子来解释Docker容器](https://github.com/xszi/frontend-translation-forest/issues/3)【4.10】
 * [关于Node.js的20个面试题](https://github.com/xszi/frontend-translation-forest/issues/4)【4.17】
 * [将元素浮动到底角](https://github.com/xszi/frontend-translation-forest/issues/5)【4.24】
-* [可视化的JavaScript —— 事件循环](https://github.com/xszi/frontend-translation-forest/issues/6)【4.30】
+* [可视化的JavaScript —— 事件循环1](https://github.com/xszi/frontend-translation-forest/issues/6)【4.30】
