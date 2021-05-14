@@ -27,3 +27,4 @@
 * [将元素浮动到底角](https://github.com/xszi/frontend-translation-forest/issues/5)【4.24】
 * [可视化的JavaScript —— 事件循环](https://github.com/xszi/frontend-translation-forest/issues/6)【4.30】
 * [可视化的JavaScript —— 提升](https://github.com/xszi/frontend-translation-forest/issues/7)【5.8】
+* [可视化的JavaScript —— 作用域（链）](https://github.com/xszi/frontend-translation-forest/issues/8)【5.15】
