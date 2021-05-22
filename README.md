@@ -28,3 +28,4 @@
 * [可视化的JavaScript —— （一）事件循环](https://github.com/xszi/frontend-translation-forest/issues/6)【4.30】
 * [可视化的JavaScript —— （二）提升](https://github.com/xszi/frontend-translation-forest/issues/7)【5.8】
 * [可视化的JavaScript —— （三）作用域（链）](https://github.com/xszi/frontend-translation-forest/issues/8)【5.15】
+* [可视化的JavaScript —— （四）JS引擎](https://github.com/xszi/frontend-translation-forest/issues/9)【5.22】
