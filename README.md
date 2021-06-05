@@ -29,4 +29,6 @@
 * [可视化的JavaScript —— （二）提升](https://github.com/xszi/frontend-translation-forest/issues/7)【5.8】
 * [可视化的JavaScript —— （三）作用域（链）](https://github.com/xszi/frontend-translation-forest/issues/8)【5.15】
 * [可视化的JavaScript —— （四）JS引擎](https://github.com/xszi/frontend-translation-forest/issues/9)【5.22】
-* [可视化的JavaScript —— （五）原型继承](https://github.com/xszi/frontend-translation-forest/issues/10)【6.1】
+* [可视化的JavaScript —— （五）原型继承](https://github.com/xszi/frontend-translation-forest/issues/10)【5.30】
+* [可视化的JavaScript —— （六）Generators 和 Iterators](https://github.com/xszi/frontend-translation-forest/issues/11)【6.5】
+* [可视化的JavaScript —— （七）原型继承](https://github.com/xszi/frontend-translation-forest/issues/10)【6.12】
