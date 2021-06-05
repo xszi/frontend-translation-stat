@@ -31,4 +31,4 @@
 * [可视化的JavaScript —— （四）JS引擎](https://github.com/xszi/frontend-translation-forest/issues/9)【5.22】
 * [可视化的JavaScript —— （五）原型继承](https://github.com/xszi/frontend-translation-forest/issues/10)【5.30】
 * [可视化的JavaScript —— （六）Generators 和 Iterators](https://github.com/xszi/frontend-translation-forest/issues/11)【6.5】
-* [可视化的JavaScript —— （七）原型继承](https://github.com/xszi/frontend-translation-forest/issues/10)【6.12】
+* [可视化的JavaScript —— （七）Promises 和 Async/Await](https://github.com/xszi/frontend-translation-forest/issues/12)【6.12】
