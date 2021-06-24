@@ -17,6 +17,7 @@
 * [Google Developers Web](https://developers.google.com/web/)
 * [Mobile Dev Weekly](https://mobiledevweekly.com/issues)
 * [CodeAnalogies Blog](https://blog.codeanalogies.com/)
+* [Deepal's Blog](https://blog.insiderattack.net/)
 
 ### :maple_leaf: 文章目录
 
