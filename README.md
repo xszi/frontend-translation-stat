@@ -21,15 +21,17 @@
 
 ### :maple_leaf: 文章目录
 
-* [我希望我早点认识Nginx](https://github.com/xszi/frontend-translation-forest/issues/1)【3.26】
-* [通过两个示例来解释递归和和调用堆栈](https://github.com/xszi/frontend-translation-forest/issues/2)【4.2】
-* [通过租用办公空间例子来解释Docker容器](https://github.com/xszi/frontend-translation-forest/issues/3)【4.10】
-* [关于Node.js的20个面试题](https://github.com/xszi/frontend-translation-forest/issues/4)【4.17】
-* [将元素浮动到底角](https://github.com/xszi/frontend-translation-forest/issues/5)【4.24】
-* [可视化的JavaScript —— （一）事件循环](https://github.com/xszi/frontend-translation-forest/issues/6)【4.30】
-* [可视化的JavaScript —— （二）提升](https://github.com/xszi/frontend-translation-forest/issues/7)【5.8】
-* [可视化的JavaScript —— （三）作用域（链）](https://github.com/xszi/frontend-translation-forest/issues/8)【5.15】
-* [可视化的JavaScript —— （四）JS引擎](https://github.com/xszi/frontend-translation-forest/issues/9)【5.22】
-* [可视化的JavaScript —— （五）原型继承](https://github.com/xszi/frontend-translation-forest/issues/10)【5.30】
-* [可视化的JavaScript —— （六）Generators 和 Iterators](https://github.com/xszi/frontend-translation-forest/issues/11)【6.5】
-* [可视化的JavaScript —— （七）Promises 和 Async/Await](https://github.com/xszi/frontend-translation-forest/issues/12)【6.12】
+* [我希望我早点认识Nginx](https://xszi.github.io/docs/translation/nginx.html)【3.26】
+* [通过两个示例来解释递归和和调用堆栈](https://xszi.github.io/docs/translation/callstack.html)【4.2】
+* [通过租用办公空间例子来解释Docker容器](https://xszi.github.io/docs/translation/docker.html)【4.10】
+* [关于Node.js的20个面试题](https://xszi.github.io/docs/translation/nodeq.html)【4.17】
+* [将元素浮动到底角](https://xszi.github.io/docs/translation/float.html)【4.24】
+* [可视化的JavaScript —— （一）事件循环](https://xszi.github.io/docs/translation/eventloop.html)【4.30】
+* [可视化的JavaScript —— （二）提升](https://xszi.github.io/docs/translation/hoisting.html)【5.8】
+* [可视化的JavaScript —— （三）作用域（链）](https://xszi.github.io/docs/translation/scope.html)【5.15】
+* [可视化的JavaScript —— （四）JS引擎](https://xszi.github.io/docs/translation/jsengine.html)【5.22】
+* [可视化的JavaScript —— （五）原型继承](https://xszi.github.io/docs/translation/prototype.html)【5.30】
+* [可视化的JavaScript —— （六）Generators 和 Iterators](https://xszi.github.io/docs/translation/geniterator.html)【6.5】
+* [可视化的JavaScript —— （七）Promises 和 Async/Await](https://xszi.github.io/docs/translation/promise.html)【6.12】
+* [NodeJS 流的可视化指南](https://xszi.github.io/docs/translation/stream.html)【6.19】
+* [使用 Chrome DevTools 高效调试 JavaScript](https://xszi.github.io/docs/translation/chrometool.html)【6.26】
